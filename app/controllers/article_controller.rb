@@ -1,6 +1,11 @@
 class ArticleController < ApplicationController
 
   def index
-    asd
+    alsdklaskdlaksd
+    asldlkasldasd
+    laskdlasd
+    asldkasldasd
+    asdlaksdlasd
+    as
   end
 end
