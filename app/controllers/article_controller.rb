@@ -1,5 +1,6 @@
 class ArticleController < ApplicationController
 
-  def insdex
+  def index
+    asd
   end
 end
