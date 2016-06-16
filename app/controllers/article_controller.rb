@@ -8,6 +8,7 @@ class ArticleController < ApplicationController
     asldaks
     dasdasldka
     sd
+    asdla;sd
     
   end
 end
